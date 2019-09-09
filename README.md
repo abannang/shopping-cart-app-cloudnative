@@ -1,6 +1,6 @@
 # SHOP
 
-TopShelf is a sample e-commerce [Progressive Web App] developed by Polymer.
+TopShelf is a sample e-commerce [Progressive Web App] developed by our friends at Polymer. I reskinned the app to a new look for testing purpose. The source code has been fully developed by Polymer.
 
 ## Features/highlights
 
